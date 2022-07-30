@@ -1,5 +1,5 @@
-### **Hello World!** <img src="https://c.tenor.com/AUHgwWxTw14AAAAj/dm4uz3-foekoe.gif" width="50px"></img>
-### **It's [Augusto Soria!](https://augustosoria.github.io/)**
+## **Hello World!** <img src="https://c.tenor.com/AUHgwWxTw14AAAAj/dm4uz3-foekoe.gif" width="50px"></img>
+# **It's [Augusto Soria!](https://augustosoria.github.io/)**
 *I am Full-Stack Web Developer from Argentina, I enjoy making web apps and I enjoy learning about it.*
 
 <a href="https://www.linkedin.com/in/augusto-soria-a8b7251b7/">
