@@ -15,7 +15,8 @@ const aboutMe = {
       databases: ["MongoDB", "MySQL"],
       testing: ["Mocha", "Chai"],
       state_management: ["Redux", "NgRx"],
-      others: ["Mongoose", "GIT", "Firebase", "JWT"]
+      others: ["Mongoose", "GIT", "Firebase", "JWT"],
+      learning: ["Jest", "Java"]
    },
    languages: ["Spanish", "English"]
 };
