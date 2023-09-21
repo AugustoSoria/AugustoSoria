@@ -10,13 +10,12 @@ const aboutMe = {
          css: ["Bootstrap"]
       },
       backEnd: {
-         js: ["Node", "Express"]
+         js: ["Node", "Express", "Java", "Spring Boot"]
       },
-      databases: ["MongoDB", "MySQL"],
+      databases: ["MongoDB", "MySQL", "PostgreSQL"],
       testing: ["Mocha", "Chai"],
       state_management: ["Redux", "NgRx"],
       others: ["Mongoose", "GIT", "Firebase", "JWT"],
-      learning: ["Jest", "Java"]
    },
    languages: ["Spanish", "English"]
 };
