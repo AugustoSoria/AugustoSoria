@@ -6,7 +6,7 @@ const aboutMe = {
    code: [JavaSript, TypeScript, CSS, HTML],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular", "NextJs", "jQuery"],
+         js: ["React", "Redux", "Angular", "RxJs", "NgRx"],
          css: ["Bootstrap"]
       },
       backEnd: {
@@ -15,7 +15,7 @@ const aboutMe = {
       databases: ["MongoDB", "MySQL", "PostgreSQL"],
       testing: ["Mocha", "Chai"],
       state_management: ["Redux", "NgRx"],
-      others: ["Mongoose", "GIT", "Firebase", "JWT"],
+      others: ["Mongoose", "GIT", "Docker", "GCP"],
    },
    languages: ["Spanish", "English"]
 };
